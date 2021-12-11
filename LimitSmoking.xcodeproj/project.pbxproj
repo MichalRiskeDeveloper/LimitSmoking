@@ -13,6 +13,7 @@
 		D7D9AAFA275A74EF001E9883 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7D9AAF8275A74EF001E9883 /* Main.storyboard */; };
 		D7D9AAFC275A74F0001E9883 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D9AAFB275A74F0001E9883 /* Assets.xcassets */; };
 		D7D9AAFF275A74F0001E9883 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7D9AAFD275A74F0001E9883 /* LaunchScreen.storyboard */; };
+		D7E2C3232764AC1D00928931 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E2C3222764AC1D00928931 /* ProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D7D9AAFB275A74F0001E9883 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7D9AAFE275A74F0001E9883 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7D9AB00275A74F0001E9883 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7E2C3222764AC1D00928931 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D7D9AAF2275A74EF001E9883 /* AppDelegate.swift */,
 				D7D9AAF4275A74EF001E9883 /* SceneDelegate.swift */,
 				D7D9AAF6275A74EF001E9883 /* ViewController.swift */,
+				D7E2C3222764AC1D00928931 /* ProgressBar.swift */,
 				D7D9AAF8275A74EF001E9883 /* Main.storyboard */,
 				D7D9AAFB275A74F0001E9883 /* Assets.xcassets */,
 				D7D9AAFD275A74F0001E9883 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D7D9AAF7275A74EF001E9883 /* ViewController.swift in Sources */,
 				D7D9AAF3275A74EF001E9883 /* AppDelegate.swift in Sources */,
+				D7E2C3232764AC1D00928931 /* ProgressBar.swift in Sources */,
 				D7D9AAF5275A74EF001E9883 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
